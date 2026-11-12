@@ -1,0 +1,12 @@
+{
+  "name": "Fieldnotes English — Inglés para el agua",
+  "short_name": "Fieldnotes English",
+  "description": "Práctica de inglés para la convocatoria Joven YEP y la gestión integrada de recursos hídricos.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f2",
+  "theme_color": "#f5f6f2",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
